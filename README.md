@@ -1,1 +1,1 @@
-# Merketing-Analysis-Report-Python-SQL-PowerBI-
+# Marketing-Analysis-Report-Python-SQL-PowerBI-
